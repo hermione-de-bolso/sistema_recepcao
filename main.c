@@ -7,7 +7,7 @@ int main() {
     printf("Digite o número de visitantes do dia: ");
     scanf("%d", &numeroVisitantes);
 
-    // Exibir mensagem de confirmarção
+    // Exibir mensagem de confirmação:
     printf("Número de visitantes registrado: %d\n", numeroVisitantes);
 
     return 0;
